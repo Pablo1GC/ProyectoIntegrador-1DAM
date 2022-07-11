@@ -1,0 +1,8 @@
+MYSQL_ADDON_HOST=bx6upwoiubkc4felso1w-mysql.services.clever-cloud.com
+MYSQL_ADDON_DB=bx6upwoiubkc4felso1w
+MYSQL_ADDON_USER=uflpbetwquqnmjoz
+MYSQL_ADDON_PORT=21400
+MYSQL_ADDON_PASSWORD=apjpBAssEuhauYy6mUP
+MYSQL_ADDON_URI=mysql://uflpbetwquqnmjoz:apjpBAssEuhauYy6mUP@bx6upwoiubkc4felso1w-mysql.services.clever-cloud.com:21400/bx6upwoiubkc4felso1w
+CORREO_ELECTRONICO_PLATAFORMA=clubsuem@gmail.com
+CONTRASEÑA_CORREO_ELECTRONICO=clubs123
